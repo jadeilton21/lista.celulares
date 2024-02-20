@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class CelularControllers {
 
 
+    private final CelularService celularService;
 
+    public CelularControllers<List<Celulares>> getCelulares(){
+
+    }
 
 }
