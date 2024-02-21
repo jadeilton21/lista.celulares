@@ -1,6 +1,7 @@
 package lista.celular.lista.service;
 
 
+import lista.celular.lista.cliente.CelularCliente;
 import lista.celular.lista.doMain.Celulares;
 import org.springframework.stereotype.Service;
 
