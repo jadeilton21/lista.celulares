@@ -1,0 +1,44 @@
+{
+  "celulares": [
+    {
+      "marca": "iPhone",
+      "fabricante": "Apple Inc.",
+      "cor": "Prateado",
+      "imagem": "iphone_image.jpg",
+      "ano_fabricacao": 2023,
+      "isbn": "978-1-234567-89-0"
+    },
+    {
+      "marca": "Galaxy",
+      "fabricante": "Samsung",
+      "cor": "Preto",
+      "imagem": "galaxy_image.jpg",
+      "ano_fabricacao": 2022,
+      "isbn": "978-1-234567-90-6"
+    },
+    {
+      "marca": "Pixel",
+      "fabricante": "Google",
+      "cor": "Branco",
+      "imagem": "pixel_image.jpg",
+      "ano_fabricacao": 2024,
+      "isbn": "978-1-234567-91-3"
+    },
+    {
+      "marca": "Xperia",
+      "fabricante": "Sony",
+      "cor": "Azul",
+      "imagem": "xperia_image.jpg",
+      "ano_fabricacao": 2021,
+      "isbn": "978-1-234567-92-0"
+    },
+    {
+      "marca": "Mate",
+      "fabricante": "Huawei",
+      "cor": "Dourado",
+      "imagem": "mate_image.jpg",
+      "ano_fabricacao": 2023,
+      "isbn": "978-1-234567-93-7"
+    }
+  ]
+}
