@@ -17,13 +17,13 @@ public class CelularControllers {
     private final CelularService celularService;
 
 
-    public CelularControllers(CeluaresService celuaresService){
+    public CelularControllers(CelularService celuaresService){
         this.celularService = celuaresService;
     }
     @GetMapping
     public ResponseEntity<List<Celulares>> getCelulares(){
         List<Celulares> celulares = this.celularService.getCelularesFromLibriary();
-        return ResponseEntity.ok().body(Celulares);
+        return ResponseEntity.ok().body(celulares);
     }
 
 }
