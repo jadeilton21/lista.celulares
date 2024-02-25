@@ -17,4 +17,5 @@ public class Celulares {
     @JsonProperty("year_of_publication")
     public String ano_fabricacao;
     public String isbn;
+
 }
